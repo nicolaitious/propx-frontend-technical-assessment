@@ -1,0 +1,11 @@
+.tableWrapper {
+    padding: 5%;
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+    .tableWrapper {
+        max-width: 100%;
+    }
+}
